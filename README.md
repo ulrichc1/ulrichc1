@@ -41,7 +41,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/ulrichc1)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/ulrichc1)
-[![MacOS](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=MacOS)](https://github.com/ulrichc1)
+[![MacOS](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple)](https://github.com/ulrichc1)
 
 <!--
 **ulrichc1/ulrichc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
