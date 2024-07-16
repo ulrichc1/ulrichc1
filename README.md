@@ -1,18 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-<br><br>
-    <i>
-        I'm Ulrich COUDIN.<br>
-        Currently on the path to be a Software Engineer.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/ulrich-coudin/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-</p>
-
 - 🔭 I’m currently working on an english language learning app by voice chat.
-- 🌱 I’m currently learning React Native.
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/ulrichc1)
