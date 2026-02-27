@@ -1,3 +1,3 @@
-### Future Software Engineer | Fullstack Developer (>2 years of XP)
+### Future Software Engineer | Fullstack Developer
 
 Founder of @Sparn
